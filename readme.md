@@ -1,6 +1,7 @@
 # Description
 
-This is an account book app based on LineBot.
+This is an account book app based on LineBot. 
+The script help build a self-host account book app by utilizing LineBot. Users can create records, find real-time exchange rates through text messages with the chatbot on Line.
 
 # Structure
 
